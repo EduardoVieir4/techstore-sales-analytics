@@ -1,3 +1,7 @@
 bibliotecas_python.ipynb
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+Python_Análise_de_dados/bibliotecas_python.ipynb
+
+notebooks/.ipynb_checkpoints

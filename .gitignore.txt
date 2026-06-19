@@ -1,0 +1,3 @@
+bibliotecas_python.ipynb
+
+.ipynb_checkpoints
